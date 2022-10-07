@@ -1,7 +1,7 @@
 
 ## coccinelle_exercises
 
- - blog post [here](https://tin-z.github.io/coccinelle/vuln_research/kernel/2022/10/07/coccinelle.html)
+ - blog post here: [Finding vulnerabilities on *Unix kernel with Coccinelle and hacker1](https://tin-z.github.io/coccinelle/vuln_research/kernel/2022/10/07/coccinelle.html)
  - coccinelle notes and exercises
 
 
